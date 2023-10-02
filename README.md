@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Firoz Hossain</h1>
-<h3 align="center">A passionate Web developer from Bangladesh</h3>
+<h3 align="center">A passionate Frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firozhossain82&label=Profile%20views&color=0e75b6&style=flat" alt="firozhossain82" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in **Full Stack Development**
 
-- 💬 Ask me about **JavaScript,React,NodeJs,MongoDB**
+- 💬 Ask me about **JavaScript, React, NodeJs, MongoDB**
 
 - 📫 How to reach me **firozhossain295@gmail.com**
 
