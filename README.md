@@ -10,7 +10,7 @@
 - 💬 Ask me about **JavaScript, React, NodeJs, MongoDB**
 
 - 📫 How to reach me **firozhossain295@gmail.com**
-- How to reach me **How to reach me**(https://firozhossain-portfolio.netlify.app/)
+- How to reach me (https://firozhossain-portfolio.netlify.app/)
   
 
 <h3 align="left">Connect with me:</h3>
